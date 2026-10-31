@@ -1,0 +1,17 @@
+{
+  "poll_seconds": 15,
+  "ports": [9, 7, 12287],
+  "broadcast_ips": ["255.255.255.255"],
+  "targets": [
+    {
+      "name": "ethernet",
+      "ip": "192.168.1.20",
+      "mac": "aa:bb:cc:dd:ee:01"
+    },
+    {
+      "name": "wifi",
+      "ip": "192.168.1.21",
+      "mac": "aa:bb:cc:dd:ee:02"
+    }
+  ]
+}
