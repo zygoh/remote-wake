@@ -23,7 +23,7 @@
 ### 1. 安装与配置
 
 ```bash
-git clone https://github.com/<your-username>/remote-wake.git
+git clone https://github.com/zygoh/remote-wake.git
 cd remote-wake
 
 # 创建本地配置文件（此文件已加入 .gitignore，不会泄露私密 MAC/IP）
